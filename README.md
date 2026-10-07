@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Santiago 👋  
+I'm a Computer Science graduate from UC San Diego passionate about software engineering!
 <!--
 **Santiago-Duque/Santiago-Duque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
